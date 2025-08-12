@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System) & Active Directory</b>
-  - [osTicket: Solving Tickets](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Solving Tickets](https://github.com/jayosc/ostickets-solving)
 
 <h2>Connect with me:</h2>
 
