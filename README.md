@@ -4,6 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System) & Active Directory</b>
   - [osTicket: Solving Tickets](https://github.com/jayosc/ostickets-solving)
+  - [Active Directory: Creating Users](https://github.com/jayosc/ostickets-solving)
+
 
 <h2>Connect with me:</h2>
 
