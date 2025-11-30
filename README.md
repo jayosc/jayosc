@@ -1,4 +1,4 @@
-<h1>Hi, My name is Jaymarion, an aspiring <a href="www.linkedin.com/in/jaymarion-oscar-ab1689371">IT Professional
+<h1>Hi, My name is Jaymarion, I'm an aspiring <a href="www.linkedin.com/in/jaymarion-oscar-ab1689371">IT Professional
 
 <h2> Information Technology Projects:</h2>
 
